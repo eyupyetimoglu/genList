@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\C++MasterClass\gnricCLasses\bin\Debug\gnricCLasses.exe.config
+C:\Users\HP\Desktop\C++MasterClass\gnricCLasses\bin\Debug\gnricCLasses.exe
+C:\Users\HP\Desktop\C++MasterClass\gnricCLasses\bin\Debug\gnricCLasses.pdb
+C:\Users\HP\Desktop\C++MasterClass\gnricCLasses\obj\Debug\gnricCLasses.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C++MasterClass\gnricCLasses\obj\Debug\gnricCLasses.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C++MasterClass\gnricCLasses\obj\Debug\gnricCLasses.exe
+C:\Users\HP\Desktop\C++MasterClass\gnricCLasses\obj\Debug\gnricCLasses.pdb
